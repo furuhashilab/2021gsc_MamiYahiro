@@ -11,7 +11,7 @@
 
 指導教員　古橋　大地　教授
 
-© Furuhashi Laboratory/Suzuka Yoshida, CC BY 4.0
+© Furuhashi Laboratory/Mami Yahiro, CC BY 4.0
 
 ## 中間発表
 
