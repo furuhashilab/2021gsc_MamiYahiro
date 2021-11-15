@@ -49,4 +49,5 @@ https://www.roughguides.com/maps/asia/thailand/
 ## 発表用スライド
 https://docs.google.com/presentation/d/1U_GbOKfA6bloO8NqjdTUHgx_X8dp6HGcSq_WhboQvPc/edit?usp=sharing
 
-
+## プロジェクト管理
+https://github.com/furuhashilab/2021gsc_MamiYahiro/projects/1
