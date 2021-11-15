@@ -34,6 +34,11 @@
 https://docs.google.com/spreadsheets/d/1MxDfNtNdVV5fGdWIDxwt9DxHjt-asm9imttNbXWchT8/edit#gid=0
 
 ## 先行事例
-日本の絶景マップ　http://tasokori.net/webapps/zekkei-map/#/
-さっぽろ保育園マップ　http://papamama.codeforsapporo.org/#
-Travel Japan https://www.japan.travel/en/
+日本の絶景マップ
+http://tasokori.net/webapps/zekkei-map/#/
+
+さっぽろ保育園マップ
+http://papamama.codeforsapporo.org/#
+
+Travel Japan
+https://www.japan.travel/en/
