@@ -42,3 +42,6 @@ http://papamama.codeforsapporo.org/#
 
 Travel Japan
 https://www.japan.travel/en/
+
+Map of Thailand
+https://www.roughguides.com/maps/asia/thailand/
