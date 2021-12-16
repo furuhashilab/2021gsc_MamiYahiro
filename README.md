@@ -37,14 +37,10 @@ https://docs.google.com/spreadsheets/d/1MxDfNtNdVV5fGdWIDxwt9DxHjt-asm9imttNbXWc
 日本の絶景マップ
 http://tasokori.net/webapps/zekkei-map/#/
 
-さっぽろ保育園マップ
-http://papamama.codeforsapporo.org/#
+みなとみらい駅周辺の観光スポットマップ
+https://map.goo.ne.jp/map/search/station/140298/genre/05002/zoom/8/?order=1
 
-Travel Japan
-https://www.japan.travel/en/
 
-Map of Thailand
-https://www.roughguides.com/maps/asia/thailand/
 
 ## 発表用スライド
 https://docs.google.com/presentation/d/1U_GbOKfA6bloO8NqjdTUHgx_X8dp6HGcSq_WhboQvPc/edit?usp=sharing
