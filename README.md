@@ -40,6 +40,10 @@ http://tasokori.net/webapps/zekkei-map/#/
 みなとみらい駅周辺の観光スポットマップ
 https://map.goo.ne.jp/map/search/station/140298/genre/05002/zoom/8/?order=1
 
+umapを使ってオンラインガイドマップを作ろう！
+http://www.yamasita.jp/osm/seminar/150221_OpenDataDay/umap.pdf
+
+
 
 
 ## 発表用スライド
