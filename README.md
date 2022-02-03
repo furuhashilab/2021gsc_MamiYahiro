@@ -24,6 +24,9 @@
 ## Methods
 まず実際に江の島で絶景が見える箇所を去年のゼミ論も参考に探す。
 ![IMG_9207](https://user-images.githubusercontent.com/62396682/152303670-39b72048-2294-44ea-8b0b-47cd1e1e63a8.jpg)
+今回10ヶ所の絶景スポットをピックアップ
+
+
 
 ## Result
 
