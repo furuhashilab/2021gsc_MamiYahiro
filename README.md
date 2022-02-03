@@ -13,7 +13,7 @@
 
 © Furuhashi Laboratory/Mami Yahiro, CC BY 4.0
 
-## 中間発表
+## 最終発表
 
 
 # 【2021年度ゼミ論】タイトル：江の島の絶景スポットを海外の方向けにまとめたサイト作成
@@ -34,11 +34,16 @@
 https://docs.google.com/spreadsheets/d/1MxDfNtNdVV5fGdWIDxwt9DxHjt-asm9imttNbXWchT8/edit#gid=0
 
 ## 先行事例
-日本の絶景マップ
-http://tasokori.net/webapps/zekkei-map/#/
 
-みなとみらい駅周辺の観光スポットマップ
-https://map.goo.ne.jp/map/search/station/140298/genre/05002/zoom/8/?order=1
+にいがた観光ナビ
+https://niigata-kankou.or.jp/pickup/zekkei?sortType=access&listStyle=map&latitude=&longitude=&keyword=#searchResultArea
+
+稲村亭周辺観光名所
+https://ja.localwiki.org/ksm/%E7%A8%B2%E6%9D%91%E4%BA%AD%E5%91%A8%E8%BE%BA%E8%A6%B3%E5%85%89%E5%90%8D%E6%89%80
+
+cgs部おすすめの観光スホット
+https://ja.localwiki.org/ksm/cgs%E9%83%A8%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E8%A6%B3%E5%85%89%E3%82%B9%E3%83%9B%E3%83%83%E3%83%88
+
 
 umapを使ってオンラインガイドマップを作ろう！
 http://www.yamasita.jp/osm/seminar/150221_OpenDataDay/umap.pdf
