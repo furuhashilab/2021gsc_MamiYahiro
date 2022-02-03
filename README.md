@@ -38,8 +38,10 @@ https://docs.google.com/spreadsheets/d/1MxDfNtNdVV5fGdWIDxwt9DxHjt-asm9imttNbXWc
 にいがた観光ナビ
 https://niigata-kankou.or.jp/pickup/zekkei?sortType=access&listStyle=map&latitude=&longitude=&keyword=#searchResultArea
 
-稲村亭周辺観光名所
-https://ja.localwiki.org/ksm/%E7%A8%B2%E6%9D%91%E4%BA%AD%E5%91%A8%E8%BE%BA%E8%A6%B3%E5%85%89%E5%90%8D%E6%89%80
+
+London attractions map
+https://www.visitlondon.com/things-to-do/london-attractions-map
+
 
 cgs部おすすめの観光スホット
 https://ja.localwiki.org/ksm/cgs%E9%83%A8%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E8%A6%B3%E5%85%89%E3%82%B9%E3%83%9B%E3%83%83%E3%83%88
