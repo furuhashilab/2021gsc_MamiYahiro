@@ -91,6 +91,7 @@ https://ja.localwiki.org/fujisawa/The%20beautiful%20scenery%20of%20Enoshima
 ## Discussion
 
 ## Conclusion
+今回のゼミ論を通じて、同じ海の景色でも場所によって見え方が全然違うことに気がついた。また去年は立ち入り禁止だった場所が行けるようになっていたり、去年行けた場所が立ち入り禁止になっていたりしてるところが何ヶ所かあった。今後さらに海外の方に江ノ島の絶景を伝えるためにもこまめに更新し、こういった変化にも対応できるようにしていきたい。
 
 ## 参考文献
 https://docs.google.com/spreadsheets/d/1MxDfNtNdVV5fGdWIDxwt9DxHjt-asm9imttNbXWchT8/edit#gid=0
