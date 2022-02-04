@@ -52,7 +52,8 @@
 
 #### （１）絶景スポットを決める
 実際に江の島に行き、絶景が見える箇所を去年のゼミ論も参考に探す。
-![IMG_9207](https://user-images.githubusercontent.com/62396682/152303670-39b72048-2294-44ea-8b0b-47cd1e1e63a8.jpg)
+![IMG_9207](https://user-images.githubusercontent.com/62396682/152580912-4a301db7-5845-402a-b9f4-45944e88a7be.jpg)
+
 
 今回10ヶ所の絶景スポットをピックアップ
 
@@ -86,12 +87,24 @@
 
 
 #### (4)LocalWikiにまとめる
-
+地図の埋め込み方法→参照https://ja.localwiki.org/mr/%E8%A8%98%E4%BA%8B%E3%81%AB%E5%9C%B0%E5%9B%B3%28umap%29%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80
+<img width="８００" alt="スクリーンショット 2022-02-05 3 13 13" src="https://user-images.githubusercontent.com/62396682/152582734-0c2362ad-b7db-48b6-ac3a-a0b53b79401e.png">
+緑のパズルのメディアを埋め込みの部分にコードを埋め込む
 
 ## Result
 
 LocalWiki
 https://ja.localwiki.org/fujisawa/The%20beautiful%20scenery%20of%20Enoshima
+メインのページには各スポットをまとめたumapを載せ、クリックすると名称、写真、詳細ページURL、ルートのURLが表示される。
+
+<img width="1000" alt="スクリーンショット 2022-02-05 1 32 14" src="https://user-images.githubusercontent.com/62396682/152582073-a05b4ee2-f660-47c4-8d7c-5a5effe379c2.png">
+また地図の下に、名称と写真をまとめ、名称のリンクからも詳細ページに飛べるようにした。
+<img width="1000" alt="スクリーンショット 2022-02-05 1 32 57" src="https://user-images.githubusercontent.com/62396682/152581980-b4c4766e-38ab-43b9-a2cc-5dcfc12b272f.png">
+
+各スポットの詳細ページには、概要説明、写真、ルートのURLを掲載
+それぞれの場所がどんな場所かイメージつきやすくするため、スマートフォンの他に360度カメラでの撮影も行った。
+<img width="1000" alt="スクリーンショット 2022-02-05 1 33 51" src="https://user-images.githubusercontent.com/62396682/152581808-ee36cf52-2fb8-4e65-b080-c60fcd653892.png">
+
 
 ## Discussion
 今回の作成結果として、各スポットをデジタル地図に写真と共にまとめたことで、PDFのイラストマップと比較して、より正確な位置やその場の様子を把握しやすくなったと考える。しかし今回の課題として挙げられるのは、天気や時間帯によってそこから見える景色は大きく変わってしまうという不確定な部分である。必ずしも写真のような景色が見えるとは限らない。違う時間帯ごとにどんな景色が見えるのか調査し、写真のような景色が見える時間帯を特定すれば、より分かりやすくなったのではないかと考える。
