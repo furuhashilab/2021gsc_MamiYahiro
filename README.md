@@ -95,6 +95,7 @@
 
 LocalWiki
 https://ja.localwiki.org/fujisawa/The%20beautiful%20scenery%20of%20Enoshima
+
 メインのページには各スポットをまとめたumapを載せ、クリックすると名称、写真、詳細ページURL、ルートのURLが表示される。
 
 <img width="1000" alt="スクリーンショット 2022-02-05 1 32 14" src="https://user-images.githubusercontent.com/62396682/152582073-a05b4ee2-f660-47c4-8d7c-5a5effe379c2.png">
