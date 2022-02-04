@@ -82,6 +82,9 @@
 
 ## Result
 
+LocalWiki
+https://ja.localwiki.org/fujisawa/The%20beautiful%20scenery%20of%20Enoshima
+
 ## Discussion
 
 ## Conclusion
