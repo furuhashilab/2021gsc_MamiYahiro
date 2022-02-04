@@ -79,8 +79,11 @@
 #### (2)各スポットの情報をCSVファイルにまとめる
 
 [Enoshima.csv](https://github.com/furuhashilab/2021gsc_MamiYahiro/files/8005076/Enoshima.csv)
+<img width="1063" alt="スクリーンショット 2022-02-05 2 01 42" src="https://user-images.githubusercontent.com/62396682/152580574-085a2162-dafa-4558-b8fe-dd672a21b3f9.png">
 
 #### (3)CSVファイルをumapにインポートする
+<img width="" alt="スクリーンショット 2022-02-05 2 04 38" src="https://user-images.githubusercontent.com/62396682/152580637-d0e79972-6942-4627-aab3-d9f8d72e086a.png">
+
 
 #### (4)LocalWikiにまとめる
 
